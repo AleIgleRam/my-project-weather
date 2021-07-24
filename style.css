@@ -1,2 +1,6 @@
  h1{text-align: center;
         color:blueviolet;}
+
+    button{ display: block;
+  margin: 0 auto;
+  width: 200px;}
